@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: rgb(32, 29, 29);
+}
+
+.btn:hover{
+background-color: blueviolet;
+}
+
+.btn1:hover{
+  background-color: rgb(36, 248, 82);
+  }
+
+
+.mb-1{background-color: rgb(158, 126, 211);text-align: center;
+  
+  
+}
+.h{
+ color: aliceblue ; text-decoration: double;
+}
+
